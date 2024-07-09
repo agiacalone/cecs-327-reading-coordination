@@ -2,7 +2,7 @@
 
 ### Assignment Description
 
-Answer the following questions from the Chapter 6 reading from your textbook. Be through and complete with your answers. You may work on these questions with a partner (no more than two working together), but both students must submit the document individually on Beachboard Dropbox along with both students’ names on each submission.
+Answer the following questions from the Chapter 6 reading from your textbook. Be complete with your answers. You may work on these questions with one or two other partners, but all students must submit the document individually in their own repositories along with each student's name documented with the submission.
 
 1. Consider the behavior of two machines in a distributed system. Both have clocks that are supposed to tick 1000 times per millisecond. One of them actually does, but the other ticks only 990 times per millisecond. If UTC updates come in once a minute, what is the maximum clock skew that will occur?
 
